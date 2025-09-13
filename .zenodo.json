@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Zucchi 2017 \"Arqueolog\u00eda de los llanos occidentales y el Orinoco\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zucchi, Alberta. 2017. Arqueolog\u00eda de los llanos occidentales y el Orinoco. (Collecci\u00f3n cl\u00e1sicos de la arqueolog\u00eda Venezolana.) Caracas: Centro Nacional de Estudios Hist\u00f3ricos.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
