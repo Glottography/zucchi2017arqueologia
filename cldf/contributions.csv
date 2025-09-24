@@ -1,12 +1,13 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Baniba,,,,guar1293,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-2,Bare,,,,bare1276,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-3,Curripaco,,,,curr1243,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-4,Guarequena,,,,guar1293,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-5,Guinao,,,,guin1258,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-6,Guipunave,,,,puin1248,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-7,Maipure,,,,maip1246,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-8,Mandahuaca,,,,mand1448,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-9,Mawakwa,,,,mawa1268,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-10,Piapoco,,,,piap1246,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
-11,Yavitero,,,,yavi1245,2017,zucchi2017arqueologia,features,Lámina 10. Localización de algunos grupos Arawacos.
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+map_1,Lámina 10. Localización de algunos grupos Arawacos.,,,,,,zucchi2017arqueologia,,map,
+1,Baniba,,,,guar1293,2017,zucchi2017arqueologia,features,feature,map_1
+2,Bare,,,,bare1276,2017,zucchi2017arqueologia,features,feature,map_1
+3,Curripaco,,,,curr1243,2017,zucchi2017arqueologia,features,feature,map_1
+4,Guarequena,,,,guar1293,2017,zucchi2017arqueologia,features,feature,map_1
+5,Guinao,,,,guin1258,2017,zucchi2017arqueologia,features,feature,map_1
+6,Guipunave,,,,puin1248,2017,zucchi2017arqueologia,features,feature,map_1
+7,Maipure,,,,maip1246,2017,zucchi2017arqueologia,features,feature,map_1
+8,Mandahuaca,,,,mand1448,2017,zucchi2017arqueologia,features,feature,map_1
+9,Mawakwa,,,,mawa1268,2017,zucchi2017arqueologia,features,feature,map_1
+10,Piapoco,,,,piap1246,2017,zucchi2017arqueologia,features,feature,map_1
+11,Yavitero,,,,yavi1245,2017,zucchi2017arqueologia,features,feature,map_1
