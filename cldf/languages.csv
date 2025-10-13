@@ -1,4 +1,6 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+maip1246,Maipure,,4.8,-67.5,maip1246,,7,dialect,Arawakan,dialects
+yavi1245,Yavitero,,,,yavi1245,,11,dialect,Arawakan,dialects
 bare1276,Baré,,1.91649,-66.828,bare1276,,2,language,Arawakan,languages
 curr1243,Curripaco,,0.69618,-67.5028,curr1243,,3,language,Arawakan,languages
 guar1293,Baniva de Maroa,,1.80835,-66.922505,guar1293,,1 4,language,Arawakan,languages

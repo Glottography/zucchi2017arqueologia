@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/zucchi2017arqueologia",
             "rdf:type": "prov:Entity",
-            "dc:created": "6a8ae13",
+            "dc:created": "d992be9",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -96,7 +96,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 12,
+            "dc:extent": 14,
             "tableSchema": {
                 "columns": [
                     {
