@@ -24,6 +24,8 @@ cldf validate cldf
 
 ```shell
 cldfbench geojson.validate cldf
+11      valid features
+14      valid speaker areas
 ```
 
 ```shell
